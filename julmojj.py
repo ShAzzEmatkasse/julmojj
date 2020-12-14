@@ -1,9 +1,7 @@
 x = input('Skriv ditt användarnamn:')
 print('Hej, ' + x)
-input('Vill du döda tomten Ja/Nej?') 
-    ja = "Du Dödade tomten inga julklpppar för dig"
-    nej = "du dädade inte tomten och får många julklappar"
-     if ja = ja:
-      print("Du dödade tomten :/ inga julklappar för dig")
-         elif nej = nej:
-              print("Du dödade inte tomten och får många julklappar")
+Fraga = input("Vill du döda tomten? Ja eller Nej?")
+if Fraga = Ja
+	print ("Du dödade tometen och kommer inte att få några julklappar i år")
+elif Fraga = Nej
+	print ("Du dödade inte tomten och kommer därför att få många julklappar")
